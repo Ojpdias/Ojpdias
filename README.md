@@ -9,3 +9,6 @@
   <img align="center" alt="Jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ojpdias&bg_color=000000&color=965da6&line=79358c&point=86588c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
