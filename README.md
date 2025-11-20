@@ -3,7 +3,6 @@
   </div>
 🧑‍💻Desenvolverdor fullstack<br>
 📚ADS-UDF<br>
-🔍Livre para trabalho<br>
 
 
 <div style="display: inline_block"><br>
